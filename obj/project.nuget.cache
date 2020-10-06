@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MeGjEXFcvEd0i3/1RO5hBCo4lrcUJ1IS0ZASi0VCEp9FQPa8tX8VscL4B2od0n9HAfIzVyk9I/c7bmqyIQu8Jw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dianarose\\source\\repos\\practicinggitpush\\practicinggitpush\\practicinggitpush.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dianarose\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}

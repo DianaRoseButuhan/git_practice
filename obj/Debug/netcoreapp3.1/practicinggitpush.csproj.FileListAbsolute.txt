@@ -1,0 +1,9 @@
+C:\Users\Dianarose\source\repos\practicinggitpush\practicinggitpush\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Dianarose\source\repos\practicinggitpush\practicinggitpush\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Dianarose\source\repos\practicinggitpush\practicinggitpush\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Dianarose\source\repos\practicinggitpush\practicinggitpush\obj\Debug\netcoreapp3.1\practicinggitpush.csprojAssemblyReference.cache
+C:\Users\Dianarose\source\repos\practicinggitpush\practicinggitpush\obj\Debug\netcoreapp3.1\practicinggitpush.AssemblyInfoInputs.cache
+C:\Users\Dianarose\source\repos\practicinggitpush\practicinggitpush\obj\Debug\netcoreapp3.1\practicinggitpush.AssemblyInfo.cs
+C:\Users\Dianarose\source\repos\practicinggitpush\practicinggitpush\obj\Debug\netcoreapp3.1\practicinggitpush.RazorTargetAssemblyInfo.cache
+C:\Users\Dianarose\source\repos\practicinggitpush\practicinggitpush\obj\Debug\netcoreapp3.1\staticwebassets\practicinggitpush.StaticWebAssets.Manifest.cache
+C:\Users\Dianarose\source\repos\practicinggitpush\practicinggitpush\obj\Debug\netcoreapp3.1\staticwebassets\practicinggitpush.StaticWebAssets.xml
